@@ -1,1 +1,1 @@
-
+Here is the Prerocessing stage of the model, I did a lot of change to various fields to get it ready for the machine learning model. All the missing values were cleaned and the split of the data into train and test have been complete.
