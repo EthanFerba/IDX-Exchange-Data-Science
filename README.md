@@ -24,7 +24,7 @@ Each link leads to **the detailed phase README**. Notebook links open the origin
 
 | Phase | Goal | Detailed README | Jupyter notebook |
 | --- | --- | --- | --- |
-| **1. Data Exploration** (Week 2) | Explore prices, home features, locations, and potential data issues | [Read Phase 1](https://github.com/EthanFerba/IDX-Exchange-Data-Science/blob/main/EDA/README.md) | [EDA notebook](01_exploration/EDA_Phase.ipynb) |
+| **1. Data Exploration** (Week 2) | Explore prices, home features, locations, and potential data issues | [Read Phase 1](https://github.com/EthanFerba/IDX-Exchange-Data-Science/blob/main/EDA/README.md) | [EDA notebook]([01_exploration/EDA_Phase.ipynb](https://github.com/EthanFerba/IDX-Exchange-Data-Science/blob/main/EDA/EDA_Phase.ipynb)) |
 | **2. Data Cleaning** | Address missing/invalid values, encode features, define chronological splits | [Read Phase 2](02_data_cleaning/README.md) | [Cleaning notebook](02_data_cleaning/Data_Cleaning_and_Analysis_Phase_revised.ipynb) |
 | **3. Baseline Model** | Build Linear Regression and establish a test R² benchmark | [Read Phase 3](03_baseline_model/README.md) | [Baseline notebook](03_baseline_model/First_Modelp2.ipynb) |
 | **4. Model Comparison** | Compare Decision Tree and Random Forest against Linear Regression | [Read Phase 4](04_model_comparison/README.md) | [Comparison notebook](04_model_comparison/Base_Compare%20%281%29.ipynb) |
