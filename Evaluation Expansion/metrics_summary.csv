@@ -1,0 +1,7 @@
+Model,Data_File,Training_Months,Train_Rows,Test_Rows,Feature_Count,Train_Start,Test_Month,Hyperparameters,R2,MAE_USD,RMSE_USD,MAPE_Percent,MdAPE_Percent,MAPE_Valid_Rows,Negative_Predictions
+XGBoost (optimized),Completedf.csv,24,58713,7069,29,2022-01-01,2024-01,max_depth=6; learning_rate=0.05; n_estimators=500,0.835574,188260.348090,488316.799526,16.999990,10.935437,7069,0
+Random Forest,Completedf.csv,24,58713,7069,29,2022-01-01,2024-01,n_estimators=150; max_depth=11; min_samples_split=2,0.777208,215393.104688,568415.204551,20.036243,12.250617,7069,0
+XGBoost (validation selected),Completedf.csv,24,58713,7069,29,2022-01-01,2024-01,max_depth=3; learning_rate=0.1; n_estimators=200,0.759538,246974.057976,590526.663832,23.823087,15.988936,7069,3
+XGBoost (log target),Completedf.csv,24,58713,7069,29,2022-01-01,2024-01,max_depth=3; learning_rate=0.1; n_estimators=200; log1p target,0.754705,218611.835815,596431.832803,18.115893,12.208724,7069,0
+Decision Tree,Completedf.csv,24,58713,7069,29,2022-01-01,2024-01,max_depth=11,0.628956,255391.100628,733548.092348,22.400363,13.846391,7069,0
+Linear Regression,Completedf.csv,24,58713,7069,29,2022-01-01,2024-01,fit_intercept=True,0.526381,449368.524743,828763.543400,51.942048,34.862624,7069,59
