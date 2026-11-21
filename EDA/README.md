@@ -1,6 +1,6 @@
 # Exploratory Data Analysis — California Residential Sales
 
-[← Project overview](../README.md) | [Next: Data Cleaning and Preparation](../02_data_cleaning/README.md)
+[← Project overview](../README.md) | [Next: Data Cleaning and Preparation](Preprocessing Phase)
 
 
 **Notebook:** [`EDA_Phase.ipynb`](EDA_Phase.ipynb)  
